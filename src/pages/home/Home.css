@@ -1,0 +1,10 @@
+.list_area {
+	/*width: calc(100% - 60px);*/
+	float: left;
+	padding: 30px 0 !important;
+	background: #f7f7f7;
+}
+.wrap_list {
+	width: 960px;
+	margin: auto;
+}

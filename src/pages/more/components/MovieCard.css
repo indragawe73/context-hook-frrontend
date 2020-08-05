@@ -1,0 +1,37 @@
+.detail_card_area {
+	width: 100%;
+	height: 300px;
+	margin: 40px 0;
+	padding: 40px 30px;
+	float: left;
+	border-radius: 4px;
+	/*background: #1273eb;*/
+	background: #090979;
+}
+.detail_wrap_image {
+	width: 200px;
+	height: calc(220px - 50px);
+    padding-top: 50px;
+	float: left;
+	background: #fff;
+    border-bottom: 1px solid #1273eb;
+}
+.detail_image_icon {
+	color: #1273eb;
+    font-size: 100px;
+    display: block;
+    margin: auto;
+}
+.detail_wrap_text {
+	width: 700px;
+	padding-left: 30px;
+	float: left;
+}
+.detail_card_text {
+	margin-bottom: 15px;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: 500;
+	color: #fff;
+	text-align: left;
+}
