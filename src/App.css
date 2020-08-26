@@ -13,11 +13,17 @@ html, body {
   .wrapHeader .wrapContent {
     width: 100%;
   }
+  .wrapHeaderBlue .wrapContent .wrapLogoHeaderTwo,
+  .wrapHeader .wrapContent .wrapLogoHeaderTwo,
   .wrapHeaderBlue .wrapContent .wrapLogoHeader,
   .wrapHeader .wrapContent .wrapLogoHeader{
     font-size: 20px;
     height: 25px;
     padding-left: 20px;
+  }
+  .wrapHeaderBlue .wrapContent .wrapLogoHeaderTwo,
+  .wrapHeader .wrapContent .wrapLogoHeaderTwo{
+    display: none;
   }
   .wrap_search {
     width: 100%;

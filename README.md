@@ -12,4 +12,4 @@
 
 ## Deployment result
 * copy the link to your browser `https://indragawe-df414.web.app/`
-
+* Deployment GT-matrix test result `https://gtmetrix.com/reports/indragawe-df414.web.app/SIG4SMn9`

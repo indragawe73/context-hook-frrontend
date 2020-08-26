@@ -1,0 +1,24 @@
+.export{
+  color: beige;
+  background-color: green;
+  margin-top: 5px;
+  margin-left: 45%
+}
+
+.download-table-xls-button {
+	padding: 10px 20px;
+	background: #3066eb;
+	border-radius: 8px;
+	color: #fff;
+	outline: none;
+	border: 0;
+	cursor: pointer;
+	-webkit-box-shadow: 0px 3px 0px 1px rgba(0,0,0, 0.1);
+	-moz-box-shadow: 0px 3px 0px 1px rgba(0,0,0, 0.1);
+	box-shadow: 0px 3px 0px 1px rgba(0,0,0, 0.1);
+}
+.download-table-xls-button:active {
+	-webkit-box-shadow: 0px 10px 0px 3px rgba(0,0,0, 0);
+	-moz-box-shadow: 0px 10px 0px 3px rgba(0,0,0, 0);
+	box-shadow: 0px 10px 0px 3px rgba(0,0,0, 0);
+}

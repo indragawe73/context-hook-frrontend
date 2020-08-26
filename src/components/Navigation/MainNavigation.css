@@ -17,9 +17,13 @@
   margin: auto;
 }
 
+.wrapLogoHeaderTwo,
 .wrapLogoHeader {
   height: 50px;
   float: left;
+}
+.wrapLogoHeaderTwo{
+  float: right;
 }
 
 .logo {

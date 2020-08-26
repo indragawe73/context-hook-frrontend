@@ -18,6 +18,11 @@ const MainNavigation = ({ logo, imageLogo, type }) => {
                 }
               </div>
             </NavLink>
+            <NavLink to={`/pivotTable`}>
+              <div className="wrapLogoHeaderTwo">
+                <h1 className={`${type === '2' ? 'textLogoBlue' : 'textLogo'}`}>Pivot Table</h1>
+              </div>
+            </NavLink>
           </div>
         </div>
     </header>
